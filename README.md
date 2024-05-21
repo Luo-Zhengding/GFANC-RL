@@ -1,15 +1,15 @@
 # GFANC-RL
 
-This repository contains the code for the paper "**GFANC-RL: Reinforcement Learning-based Generative Fixed-filter Active Noise Control**," submitted to the *Neural Networks* journal. This is a collaborative research work between the Digital Signal Processing Lab at NTU and [the AI Lab at NUS](https://github.com/mahaozhe/RLAlgorithms).
+This repository contains the code for the paper "**GFANC-RL: Reinforcement Learning-based Generative Fixed-filter Active Noise Control**," submitted to the **Neural Networks** journal. This is a collaborative research work between the Digital Signal Processing Lab at NTU and [the AI Lab at NUS](https://github.com/mahaozhe/RLAlgorithms).
 
 <p align="center">
-  <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/92681e78-c798-4b1a-b344-31e374fd1407" width="500"><br>
+  <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/07d44cdd-b60a-44b4-b1c5-6442d925b7f4" width="500"><br>
   The framework of the GFANC-RL method
 </p>
 
 <p align="center">
-  <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/8eaa424f-335b-475d-b0c0-7d006563feb3" width="300">
-  <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/abd1d74d-e290-4772-af5d-daffc6b8e302" width="300"><br>
+  <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/c44ad8c5-dafb-4811-b169-fb3ebdafd9ec" width="300">
+  <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/04d1ab12-beb7-4123-b680-4cf8b91d3173" width="300"><br>
   Parameter update for the critic in the RL algorithm. &nbsp; &nbsp; &nbsp; Parameter update for the actor in the RL algorithm.
 </p>
 
