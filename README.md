@@ -1,6 +1,6 @@
 # GFANC-RL
 
-This repository contains the code for the paper "**GFANC-RL: Reinforcement Learning-based Generative Fixed-filter Active Noise Control**," submitted to the **Neural Networks** journal. This is a collaborative research work between the Digital Signal Processing Lab at NTU and [the AI Lab at NUS](https://github.com/mahaozhe/RLAlgorithms).
+This repository contains the code for the paper "**GFANC-RL: Reinforcement Learning-based Generative Fixed-filter Active Noise Control**," submitted to the **Neural Networks** journal. This is a collaborative research work between the Digital Signal Processing Lab at NTU and [the AI Lab at NUS](https://github.com/mahaozhe/RLAlgorithms). The complete code will be made publicly available once the paper is accepted.
 
 <p align="center">
   <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/07d44cdd-b60a-44b4-b1c5-6442d925b7f4" width="500"><br>
