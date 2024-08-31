@@ -8,9 +8,9 @@ This repository contains the code for the paper "**GFANC-RL: Reinforcement Learn
 </p>
 
 <p align="center">
-  <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/c44ad8c5-dafb-4811-b169-fb3ebdafd9ec" width="300"> 
+  <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/c44ad8c5-dafb-4811-b169-fb3ebdafd9ec" width="400"> 
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <!-- 使用空格来创建间隔 -->
-  <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/04d1ab12-beb7-4123-b680-4cf8b91d3173" width="300">
+  <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/04d1ab12-beb7-4123-b680-4cf8b91d3173" width="400">
   <br>
   Parameter update for the critic in the RL algorithm. &nbsp; &nbsp; &nbsp; Parameter update for the actor in the RL algorithm.
 </p>
