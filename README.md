@@ -9,7 +9,7 @@ This repository contains the code for the paper "**GFANC-RL: Reinforcement Learn
 
 <p align="center">
   <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/c44ad8c5-dafb-4811-b169-fb3ebdafd9ec" width="300">
-  <span style="display: inline-block; width: 50px;"></span>
+  <span style="display: inline-block; width: 100px;"></span>
   <img src="https://github.com/Luo-Zhengding/GFANC-RL/assets/95018034/04d1ab12-beb7-4123-b680-4cf8b91d3173" width="300"><br>
   Parameter update for the critic in the RL algorithm. &nbsp; &nbsp; &nbsp; Parameter update for the actor in the RL algorithm.
 </p>
