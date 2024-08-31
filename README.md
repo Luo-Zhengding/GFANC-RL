@@ -63,9 +63,10 @@ This repository contains the code for the paper "**GFANC-RL: Reinforcement Learn
    *Paper Link*: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0888327024002620) &nbsp; *Code Link*: [GitHub](https://github.com/Luo-Zhengding/SFANC-Window)
 
 6. **A Hybrid SFANC-FxNLMS Algorithm for Active Noise Control based on Deep Learning**  
-   *Journal*: IEEE Signal Processing Letters, 2022, 29: 1102-1106. &nbsp; *Paper Link*: [IEEE](https://ieeexplore.ieee.org/document/9761749)*Code Link*: [GitHub](https://github.com/Luo-Zhengding/SFANC-FxNLMS-ANC-Algorithm-based-on-Deep-Learning)
+   *Journal*: IEEE Signal Processing Letters, 2022, 29: 1102-1106.
+   *Paper Link*: [IEEE](https://ieeexplore.ieee.org/document/9761749) &nbsp; *Code Link*: [GitHub](https://github.com/Luo-Zhengding/SFANC-FxNLMS-ANC-Algorithm-based-on-Deep-Learning)
 
-7. **Performance Evaluation of Selective Fixed-filter Active Noise Control based on Different Convolutional Neural Networks**  
+8. **Performance Evaluation of Selective Fixed-filter Active Noise Control based on Different Convolutional Neural Networks**  
    *Conference*: The 51st International Congress and Exposition on Noise Control Engineering (Inter-Noise 2022)
    *Paper Link*: [arXiv](https://arxiv.org/pdf/2208.08440)
 
