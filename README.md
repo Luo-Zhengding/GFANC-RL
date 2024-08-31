@@ -44,8 +44,7 @@ This repository contains the code for the paper "**GFANC-RL: Reinforcement Learn
 ## Related Publications
 1. **Deep Generative Fixed-Filter Active Noise Control**  
    *Conference*: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)  
-   *Paper Link*: [IEEE](https://ieeexplore.ieee.org/document/10095205)
-   *Code Link*: [GitHub](https://github.com/Luo-Zhengding/GFANC-RL)
+   *Paper Link*: [IEEE](https://ieeexplore.ieee.org/document/10095205)*Code Link*: [GitHub](https://github.com/Luo-Zhengding/GFANC-RL)
 
 2. **Delayless Generative Fixed-filter Active Noise Control based on Deep Learning and Bayesian Filter**  
    *Journal*: IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024, 32: 1048-1060.  
@@ -69,8 +68,7 @@ This repository contains the code for the paper "**GFANC-RL: Reinforcement Learn
 
 6. **A Hybrid SFANC-FxNLMS Algorithm for Active Noise Control based on Deep Learning**  
    *Journal*: IEEE Signal Processing Letters, 2022, 29: 1102-1106.  
-   *Paper Link*: [IEEE](https://ieeexplore.ieee.org/document/9761749)
-   *Code Link*: [GitHub](https://github.com/Luo-Zhengding/SFANC-FxNLMS-ANC-Algorithm-based-on-Deep-Learning)
+   *Paper Link*: [IEEE](https://ieeexplore.ieee.org/document/9761749)*Code Link*: [GitHub](https://github.com/Luo-Zhengding/SFANC-FxNLMS-ANC-Algorithm-based-on-Deep-Learning)
 
 7. **Performance Evaluation of Selective Fixed-filter Active Noise Control based on Different Convolutional Neural Networks**  
    *Conference*: The 51st International Congress and Exposition on Noise Control Engineering (Inter-Noise 2022)  
