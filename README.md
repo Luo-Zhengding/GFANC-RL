@@ -44,7 +44,7 @@ This repository contains the code for the paper "**GFANC-RL: Reinforcement Learn
 ## Related Publications
 1. **Deep Generative Fixed-Filter Active Noise Control**  
    *Conference*: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)  
-   *Paper Link*: [IEEE](https://ieeexplore.ieee.org/document/10095205)*Code Link*: [GitHub](https://github.com/Luo-Zhengding/GFANC-RL)
+   *Paper Link*: [IEEE](https://ieeexplore.ieee.org/document/10095205) &nbsp; *Code Link*: [GitHub](https://github.com/Luo-Zhengding/GFANC-RL)
 
 2. **Delayless Generative Fixed-filter Active Noise Control based on Deep Learning and Bayesian Filter**  
    *Journal*: IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024, 32: 1048-1060.  
